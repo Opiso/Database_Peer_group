@@ -1,4 +1,4 @@
-Tables Be Created in the e-commerce platform
+Tables Created in the e-commerce platform
 
 Product_image – Stores product image URLs or file references
 Color – Manages available color options
